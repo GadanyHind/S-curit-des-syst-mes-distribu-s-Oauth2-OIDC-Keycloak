@@ -57,7 +57,6 @@ bin/kc.sh bootstrap-admin user --bootstrap-admin-username admin --bootstrap-admi
 2. **Analyser les contenus des jetons JWT** (Access Token et Refresh Token).
 3. **Tester l’authentification avec le Refresh Token**.
 4. **Tester l’authentification avec Client ID et Client Secret**.
-5. **Modifier les paramètres des Tokens** (Access Token et Refresh Token).
 
 
 
