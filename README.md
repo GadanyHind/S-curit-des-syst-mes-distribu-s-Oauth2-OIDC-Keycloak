@@ -16,7 +16,7 @@ Démarrez Keycloak en mode développement :
 ```bash
 bin/kc.sh start-dev
 ```
-
+![2  Démarrer Keycloak - Doc](https://github.com/user-attachments/assets/02c3d9c9-170f-4704-b3d0-c482fb715208)
 
 ## 3. Créer un compte administrateur
 
